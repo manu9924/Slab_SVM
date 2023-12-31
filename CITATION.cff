@@ -1,0 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Slab SVM Code
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: 'Manuel '
+    family-names: Zanaga
+repository-code: 'https://github.com/manu9924/Slab_SVM'
+abstract: >-
+  In this repository, you'll find the implementation of the
+  Slab SVM algorithm in R.
